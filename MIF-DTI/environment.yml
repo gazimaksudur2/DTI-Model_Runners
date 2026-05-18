@@ -1,0 +1,22 @@
+name: dti_research
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pytorch
+  - pytorch-cuda=12.4
+  - rdkit
+  - pyarrow
+  - scikit-learn
+  - numpy
+  - pandas
+  - tqdm
+  - joblib
+  - pip
+  - pip:
+      - fair-esm
+      - torch-geometric
+      - prefetch_generator
