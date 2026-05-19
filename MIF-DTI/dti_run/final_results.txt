@@ -1,0 +1,8 @@
+FINAL RESULTS
+======================================================================
+
+Validation Set:
+Valid: Loss:0.28223;Accuracy:0.97871;Precision:0.61538;Recall:0.41026;AUC:0.91979;PRC:0.46491.
+
+Test Set:
+Test: Loss:0.40821;Accuracy:0.97248;Precision:0.41791;Recall:0.23932;AUC:0.86880;PRC:0.29224.
